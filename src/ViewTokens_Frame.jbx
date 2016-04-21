@@ -1,0 +1,35 @@
+[PropertyInfo]
+borderLayout1,BorderLayout,false,false, , ,false,<default>
+fileout,JTextArea,false,false, , ,false,<default>
+FlgSet,boolean,false,false, , ,false,<default>
+image1,ImageIcon,false,false, , ,false,<default>
+image2,ImageIcon,false,false, , ,false,<default>
+image3,ImageIcon,false,false, , ,false,<default>
+jLabel1,JLabel,false,false, , ,false,<default>
+jLabel2,JLabel,false,false, , ,false,<default>
+jLabel3,JLabel,false,false, , ,false,<default>
+jLabel4,JLabel,false,false, , ,false,<default>
+jLabel5,JLabel,false,false, , ,false,<default>
+jlblCode,JLabel,false,false, , ,false,<default>
+jlblCol,JLabel,false,false, , ,false,<default>
+jlblRow,JLabel,false,false, , ,false,<default>
+jMenuBar1,JMenuBar,false,false, , ,false,<default>
+jMenuCompileCompile,JMenuItem,false,false, , ,false,<default>
+jMenuComplie,JMenu,false,false, , ,false,<default>
+jMenuComplieLexer,JMenuItem,false,false, , ,false,<default>
+jMenuFile,JMenu,false,false, , ,false,<default>
+jMenuFileOpen,JMenuItem,false,false, , ,false,<default>
+jMenuFileSave,JMenuItem,false,false, , ,false,<default>
+jPanel1,JPanel,false,false, , ,false,<default>
+jScrollPane1,JScrollPane,false,false, , ,false,<default>
+jScrollPane2,JScrollPane,false,false, , ,false,<default>
+jTextArea1,JTextArea,false,false, , ,false,<default>
+Lexer,JButton,false,false, , ,false,<default>
+Lexer1,Lexer,false,false, , ,false,<default>
+path,String,false,false, , ,false,<default>
+token1,token,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
